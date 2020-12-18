@@ -12,7 +12,8 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  
   "joblist":[
     {"id":1, "date": "18-Dec-2020", "status": "New", "JobType": "", "Qty": "3", "Vol":"5", "Weight": "10", },
     {"id":2, "date": "18-Dec-2020", "status": "New", "JobType": "", "Qty": "2", "Vol":"3", "Weight": "5", },
