@@ -13,8 +13,8 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "test2": [
-    { "id": 1, "date": "18-Dec-2020", "status": "New" },
-    { "id": 2, "date": "18-Dec-2020", "status": "New" }
+    { "id": 1, "status": "new", "jobtype": 1 },
+    { "id": 2, "status": "new", "jobtype": 1 }
   ],
   "profile": {
     "name": "typicode"
