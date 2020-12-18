@@ -1,8 +1,8 @@
 {
   "test": [
-    { "id": 1, "status": "New", "jobtype": "Releasing" },
-    { "id": 2, "status": "New", "jobtype": "Receiving"},
-    { "id": 3, "status": "New", "jobtype": "Releasing" }
+    { "id": 1, "status": "New", "jobtype": "Releasing", "Qty": "3", "Vol":"5", "Weight": "10"},
+    { "id": 2, "status": "New", "jobtype": "Receiving", "Qty": "3", "Vol":"5", "Weight": "10"},
+    { "id": 3, "status": "New", "jobtype": "Releasing", "Qty": "3", "Vol":"5", "Weight": "10" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
