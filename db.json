@@ -1,8 +1,8 @@
 {
   "test": [
-    { "id": 1, "status": "Post 1" },
-    { "id": 2, "status": "Post 2" },
-    { "id": 3, "status": "Post 3" }
+    { "id": 1, "status": "New", "jobtype": "Releasing" },
+    { "id": 2, "status": "New", "jobtype": "Receiving"},
+    { "id": 3, "status": "New", "jobtype": "Releasing" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
